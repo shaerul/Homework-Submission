@@ -73,6 +73,14 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
   for i in ${ns[@]}; do echo $i $(dig +short $i); done
   ```
 
+    - asia3.akam.net 23.211.61.64
+    - usc3.akam.net 96.7.50.64
+    - usw2.akam.net 184.26.161.64
+    - eur5.akam.net 23.74.25.64
+    - ns1-206.akam.net 193.108.91.206
+    - usc2.akam.net 184.26.160.64
+    - eur2.akam.net 95.100.173.64
+    - ns1-99.akam.net 193.108.91.99
   
 
 
