@@ -72,6 +72,7 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
   ns=("Asia3.akam.net" "usc3.akam.net" "eur5.akam.net" "usc2.akam.net" "eur2.akam.net")
   for i in ${ns[@]}; do echo $i $(dig +short $i); done
   ```
+  Output
 
     - asia3.akam.net    23.211.61.64
     - usc3.akam.net     96.7.50.64
