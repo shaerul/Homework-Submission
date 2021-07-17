@@ -30,9 +30,13 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
   1. Where is the company located: 
 
   Registrant Street: Not Disclosed
+  
   Registrant City: Sunnyvale
+  
   Registrant State/Province: CA
+  
   Registrant Postal Code: 94085
+  
   Registrant Country: US
   
   2. What is the NetRange IP address:
@@ -56,7 +60,7 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 
   **Answer**
 
-  There are Eight DNS Servers being used for name to ip lookup
+  There are Eight DNS Servers being used for name resoluton
 
   ![](Images/dns-servers.png)
 
