@@ -5,6 +5,12 @@
 
 - Using Google, can you identify who the Chief Executive Officer of Altoro Mutual is:
 
+**Answer:**
+
+Karl Fitzgerald is the CEO of Altoro Mutual Banking Service
+
+![]()
+
 - How can this information be helpful to an attacker:
 
 
