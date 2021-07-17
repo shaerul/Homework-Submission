@@ -7,11 +7,21 @@
 
 **Answer:**
 
-Karl Fitzgerald is the CEO of Altoro Mutual Banking Service
+**Karl Fitzgerald** is the CEO of Altoro Mutual Banking Service
 
 ![](Images/ceo-from-google.png)
 
 - How can this information be helpful to an attacker:
+
+**Anser**
+
+Our lives are increasingly connected by social media. As a general rule, the top man of a company creates his own brand image, as it reflects the vibe, posture, and poise of the organization. The first step to this process of image branding is for a person to share their professional information on a site like LinkedIn, including their contact information. It provides a reconnaissance avenue for a malicious netizen.
+
+In this way, a threat actor can easily, 
+
+- Collect email addresses for phishing or spear phishing
+- Send executable payloads over Linkedin Chats to get backdoor access
+- Moreover, exploitation may be conducted in social engineering methods
 
 
 #### Step 2: DNS and Domain Discovery
