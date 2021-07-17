@@ -64,6 +64,13 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 
   ![](Images/dns-servers.png)
 
+  Commands for copy and paste execution
+
+  ```
+  ns=("Asia3.akam.net" "usc3.akam.net" "eur5.akam.net" "usc2.akam.net" "eur2.akam.net")
+  for i in ${ns[@]}; do echo $i $(dig +short $i); done
+  ```
+
   IP Address of Each Name Server
 
   ![](Images/ip-of-dns-servers.PNG)
