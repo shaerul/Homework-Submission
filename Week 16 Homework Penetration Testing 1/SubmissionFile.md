@@ -136,7 +136,12 @@ Your client has asked that you help identify any vulnerabilities with their file
     namp -sV 192.168.0.10 -oN nmapscan.txt
     ```
 
-- Zenmap vulnerability script command: 
+- Zenmap vulnerability script command:
+
+    **Answer**
+    ```
+    nmap -p445,139 --script=smb-enum-shares 192.168.0.10
+    ```
 
 - Once you have identified this vulnerability, answer the following questions for your client:
   1. What is the vulnerability:
