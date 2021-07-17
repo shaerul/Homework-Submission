@@ -9,7 +9,7 @@
 
 Karl Fitzgerald is the CEO of Altoro Mutual Banking Service
 
-![]()
+![](Images/ceo-from-google.png)
 
 - How can this information be helpful to an attacker:
 
