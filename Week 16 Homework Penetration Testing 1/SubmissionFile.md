@@ -140,7 +140,7 @@ Your client has asked that you help identify any vulnerabilities with their file
 
     **Answer**
     ```
-    nmap -p445,139 --script=smb-enum-shares 192.168.0.10
+    nmap -p445,139 -script=smb-enum-shares 192.168.0.10
     ```
 
 - Once you have identified this vulnerability, answer the following questions for your client:
