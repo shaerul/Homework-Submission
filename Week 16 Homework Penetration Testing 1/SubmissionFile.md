@@ -13,7 +13,7 @@
 
 - How can this information be helpful to an attacker:
 
-**Anser**
+**Answer**
 
 Our lives are increasingly connected by social media. As a general rule, the top man of a company creates his own brand image, as it reflects the vibe, posture, and poise of the organization. The first step to this process of image branding is for a person to share their professional information on a site like LinkedIn, including their contact information. It provides a reconnaissance avenue for a malicious netizen.
 
