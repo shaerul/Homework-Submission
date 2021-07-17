@@ -94,6 +94,14 @@ If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP i
 
 - What open ports and running services did Shodan find:
 
+   Open Ports: 80 443 8080
+   
+   Services,
+
+        80   Apache Tomcat/Coyote JSP engine (HTTP)
+        443  Apache Tomcat/Coyote JSP engine (HTTPS)
+        8080 Apache Tomcat/Coyote JSP engine (HTTP)
+
 #### Step 4: Recon-ng
 
 - Install the Recon module `xssed`. 
