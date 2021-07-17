@@ -87,8 +87,9 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 
 This question is a bit confusing for me to distinguish between the expected answer for "DNS server" or "DNS name" of Fully Qualified Doman Name (FQDN) `demo.testfire.net`.
 If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP is,
-
+```
 65.61.137.117
+```
 
 #### Step 3: Shodan
 
