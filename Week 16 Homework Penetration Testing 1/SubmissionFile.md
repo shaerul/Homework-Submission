@@ -81,9 +81,6 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
     - usc2.akam.net 184.26.160.64
     - eur2.akam.net 95.100.173.64
     - ns1-99.akam.net 193.108.91.99
-  
-
-
 
 #### Step 3: Shodan
 
