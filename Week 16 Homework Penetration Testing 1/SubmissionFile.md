@@ -105,9 +105,18 @@ If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP i
 
 #### Step 4: Recon-ng
 
-- Install the Recon module `xssed`. 
+- Install the Recon module `xssed`.
+
+![](Images\installing-module-xssed.PNG)
+
+**Answer**
+
+[]Images\xssed-run-command.PNG
+
 - Set the source to `demo.testfire.net`. 
 - Run the module. 
+
+![](Images\xssed-run-command.PNG)
 
 CmemJprciNiRSYqHdCKX60ItwG0BXEL2
 
