@@ -21,7 +21,7 @@ In this way, a threat actor can easily,
 
 - Collect email addresses for phishing or spear phishing
 - Send executable payloads over Linkedin Chats to get backdoor access
-- Moreover, exploitation may be conducted in social engineering methods
+- Moreover, exploitation may be conducted in various other social engineering methods
 
 
 #### Step 2: DNS and Domain Discovery
