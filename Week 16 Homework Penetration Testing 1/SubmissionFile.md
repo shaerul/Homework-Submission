@@ -59,6 +59,9 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
   There are Eight DNS Servers being used for name to ip lookup
 
   ![](Images/dns-servers.png)
+
+  IP Address of Each Name Server
+
   ![](Images/ip-of-dns-servers.PNG)
 
   
