@@ -27,13 +27,15 @@ In this way, a threat actor can easily,
 
 Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions based on the results:
 
-  1. Where is the company located: 
+  1. Where is the company located:
 
-   - Registrant Street: Not Disclosed
-   - Registrant City: Sunnyvale
-   - Registrant State/Province: CA
-   - Registrant Postal Code: 94085
-   - Registrant Country: US
+  **Answer**
+
+    - Registrant Street: Not Disclosed
+    - Registrant City: Sunnyvale
+    - Registrant State/Province: CA
+    - Registrant Postal Code: 94085
+    - Registrant Country: US
   
   2. What is the NetRange IP address:
 
@@ -45,12 +47,12 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 
   **Answer**
 
-  CustName:       Rackspace Backbone Engineering
-  Address:        9725 Datapoint Drive, Suite 100
-  City:           San Antonio
-  StateProv:      TX
-  PostalCode:     78229
-  Country:        US 
+    - CustName:       Rackspace Backbone Engineering
+    - Address:        9725 Datapoint Drive, Suite 100
+    - City:           San Antonio
+    - StateProv:      TX
+    - PostalCode:     78229
+    - Country:        US 
 
   4. What is the IP address of the DNS server:
 
