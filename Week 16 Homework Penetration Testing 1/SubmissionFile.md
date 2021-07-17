@@ -23,18 +23,47 @@ In this way, a threat actor can easily,
 - Send executable payloads over Linkedin Chats to get backdoor access
 - Moreover, exploitation may be conducted in various other social engineering methods
 
-
 #### Step 2: DNS and Domain Discovery
 
 Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions based on the results:
 
   1. Where is the company located: 
 
+  Registrant Street: Not Disclosed
+  Registrant City: Sunnyvale
+  Registrant State/Province: CA
+  Registrant Postal Code: 94085
+  Registrant Country: US
+  
   2. What is the NetRange IP address:
+
+  **Answer**
+
+  NetRange: 65.61.137.64 - 65.61.137.127
 
   3. What is the company they use to store their infrastructure:
 
+  **Answer**
+
+  CustName:       Rackspace Backbone Engineering
+  Address:        9725 Datapoint Drive, Suite 100
+  City:           San Antonio
+  StateProv:      TX
+  PostalCode:     78229
+  Country:        US 
+
   4. What is the IP address of the DNS server:
+
+  **Answer**
+
+  There are Eight DNS Servers being used for name to ip lookup
+
+  ![](Images/dns-servers.png)
+  ![](Images/ip-of-dns-servers.PNG)
+
+  
+
+
 
 #### Step 3: Shodan
 
