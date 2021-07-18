@@ -32,11 +32,11 @@
     **Answer**
       
     ```
-    Registrant Street: Not Disclosed
-    Registrant City: Sunnyvale
-    Registrant State/Province: CA
-    Registrant Postal Code: 94085
-    Registrant Country: US
+    Registrant Street:          Not Disclosed
+    Registrant City:            Sunnyvale
+    Registrant State/Province:  CA
+    Registrant Postal Code:     94085
+    Registrant Country:         US
     ```
   
   - What is the NetRange IP address:
@@ -57,7 +57,7 @@
     PostalCode:     78229
     Country:        US 
     ```
-    
+
   - What is the IP address of the DNS server:
 
     **Answer**
@@ -78,14 +78,16 @@
     ```
     Output
 
-      - asia3.akam.net    23.211.61.64
-      - usc3.akam.net     96.7.50.64
-      - usw2.akam.net     184.26.161.64
-      - eur5.akam.net     23.74.25.64
-      - ns1-206.akam.net  193.108.91.206
-      - usc2.akam.net     184.26.160.64
-      - eur2.akam.net     95.100.173.64
-      - ns1-99.akam.net   193.108.91.99
+    ```
+    asia3.akam.net    23.211.61.64
+    usc3.akam.net     96.7.50.64
+    usw2.akam.net     184.26.161.64
+    eur5.akam.net     23.74.25.64
+    ns1-206.akam.net  193.108.91.206
+    usc2.akam.net     184.26.160.64
+    eur2.akam.net     95.100.173.64
+    ns1-99.akam.net   193.108.91.99
+    ```
 
     **Note:**
 
