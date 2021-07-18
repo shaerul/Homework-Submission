@@ -181,7 +181,7 @@ Your client has asked that you help identify any vulnerabilities with their file
 
   3. What mitigation strategies can you recommendations for the client to protect their server:
   
-  
+|----------|--------|  
 | **Risk** | Medium |
 | **Nmap Script** | script=smb-enum-shares |
 | **CVE** | CVE-1999-0520 |
