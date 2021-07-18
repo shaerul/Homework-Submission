@@ -5,23 +5,23 @@
 
 - Using Google, can you identify who the Chief Executive Officer of Altoro Mutual is:
 
-**Answer:**
+  **Answer:**
 
-**Karl Fitzgerald** is the CEO of Altoro Mutual Banking Service
+  **Karl Fitzgerald** is the CEO of Altoro Mutual Banking Service
 
-![](Images/ceo-from-google.png)
+  ![](Images/ceo-from-google.png)
 
 - How can this information be helpful to an attacker:
 
-**Answer**
+  **Answer**
 
-Our lives are increasingly connected by social media. As a general rule, the top man of a company creates his own brand image, as it reflects the vibe, posture, and poise of the organization. The first step to this process of image branding is for a person to share their professional information on a site like LinkedIn, including their contact information. It provides a reconnaissance avenue for a malicious netizen.
+  Our lives are increasingly connected by social media. As a general rule, the top man of a company creates his own brand image, as it reflects the vibe, posture, and poise of the organization. The first step to this process of image branding is for a person to share their professional information on a site like LinkedIn, including their contact information. It provides a reconnaissance avenue for a malicious netizen.
 
-In this way, a threat actor can easily, 
+  In this way, a threat actor can easily, 
 
-- Collect email addresses for phishing or spear phishing
-- Send executable payloads over Linkedin Chats to get backdoor access
-- Moreover, exploitation may be conducted in various other social engineering methods
+  - Collect email addresses for phishing or spear phishing
+  - Send executable payloads over Linkedin Chats to get backdoor access
+  - Moreover, exploitation may be conducted in various other social engineering methods
 
 #### Step 2: DNS and Domain Discovery
 
@@ -45,51 +45,53 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 
   3. What is the company they use to store their infrastructure:
 
-  **Answer**
+    **Answer**
 
-    - CustName:       Rackspace Backbone Engineering
-    - Address:        9725 Datapoint Drive, Suite 100
-    - City:           San Antonio
-    - StateProv:      TX
-    - PostalCode:     78229
-    - Country:        US 
+      - CustName:       Rackspace Backbone Engineering
+      - Address:        9725 Datapoint Drive, Suite 100
+      - City:           San Antonio
+      - StateProv:      TX
+      - PostalCode:     78229
+      - Country:        US 
 
   4. What is the IP address of the DNS server:
 
-  **Answer**
+    **Answer**
 
-  There are Eight DNS Servers being used for name resoluton
+    There are Eight DNS Servers being used for name resoluton
 
-  ![](Images/dns-servers.png)
+    ![](Images/dns-servers.png)
 
-  IP Address of Each Name Server
+    IP Address of Each Name Server
 
-  ![](Images/ip-of-dns-servers.PNG)
+    ![](Images/ip-of-dns-servers.PNG)
 
-  BASH Commands for copy and paste execution
+    BASH Commands for copy and paste execution
  
-  ```
-  ns=("Asia3.akam.net" "usc3.akam.net" "eur5.akam.net" "usc2.akam.net" "eur2.akam.net")
-  for i in ${ns[@]}; do echo $i $(dig +short $i); done
-  ```
-  Output
+    ```
+    ns=("Asia3.akam.net" "usc3.akam.net" "eur5.akam.net" "usc2.akam.net" "eur2.akam.net")
+    for i in ${ns[@]}; do echo $i $(dig +short $i); done
+    ```
+    Output
 
-    - asia3.akam.net    23.211.61.64
-    - usc3.akam.net     96.7.50.64
-    - usw2.akam.net     184.26.161.64
-    - eur5.akam.net     23.74.25.64
-    - ns1-206.akam.net  193.108.91.206
-    - usc2.akam.net     184.26.160.64
-    - eur2.akam.net     95.100.173.64
-    - ns1-99.akam.net   193.108.91.99
+      - asia3.akam.net    23.211.61.64
+      - usc3.akam.net     96.7.50.64
+      - usw2.akam.net     184.26.161.64
+      - eur5.akam.net     23.74.25.64
+      - ns1-206.akam.net  193.108.91.206
+      - usc2.akam.net     184.26.160.64
+      - eur2.akam.net     95.100.173.64
+      - ns1-99.akam.net   193.108.91.99
 
-**Note:**
+    **Note:**
 
-This question is a bit confusing for me to distinguish between the expected answer for "DNS server" or "DNS name" of Fully Qualified Doman Name (FQDN) `demo.testfire.net`.
-If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP is,
-```
-65.61.137.117
-```
+    This question is a bit confusing for me to distinguish between the expected answer for "DNS server" or "DNS name" of Fully Qualified Doman Name (FQDN) `demo.testfire.net`.
+
+    If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP is,
+
+    ```
+    65.61.137.117
+    ```
 
 #### Step 3: Shodan
 
