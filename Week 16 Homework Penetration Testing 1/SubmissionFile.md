@@ -31,18 +31,19 @@
 
     **Answer**
       
-      - Registrant Street: Not Disclosed
-      - Registrant City: Sunnyvale
-      - Registrant State/Province: CA
-      - Registrant Postal Code: 94085
-      - Registrant Country: US
-
+    ```
+    Registrant Street: Not Disclosed
+    Registrant City: Sunnyvale
+    Registrant State/Province: CA
+    Registrant Postal Code: 94085
+    Registrant Country: US
+    ```
   
   - What is the NetRange IP address:
 
-  **Answer**
+    **Answer**
 
-  NetRange: 65.61.137.64 - 65.61.137.127
+    NetRange: 65.61.137.64 - 65.61.137.127
 
   - What is the company they use to store their infrastructure:
 
