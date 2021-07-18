@@ -30,7 +30,7 @@
   - Where is the company located:  
 
     **Answer**
-
+      
       - Registrant Street: Not Disclosed
       - Registrant City: Sunnyvale
       - Registrant State/Province: CA
