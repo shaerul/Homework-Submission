@@ -25,17 +25,17 @@
 
 #### Step 2: DNS and Domain Discovery
 
-Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions based on the results:
+  Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions based on the results:
 
   1. Where is the company located:
 
-  **Answer**
+    **Answer**
 
-    - Registrant Street: Not Disclosed
-    - Registrant City: Sunnyvale
-    - Registrant State/Province: CA
-    - Registrant Postal Code: 94085
-    - Registrant Country: US
+      - Registrant Street: Not Disclosed
+      - Registrant City: Sunnyvale
+      - Registrant State/Province: CA
+      - Registrant Postal Code: 94085
+      - Registrant Country: US
   
   2. What is the NetRange IP address:
 
