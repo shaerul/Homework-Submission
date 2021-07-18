@@ -29,13 +29,13 @@
 
   1. Where is the company located:
 
-    **Answer**
-
-     - Registrant Street: Not Disclosed
-     - Registrant City: Sunnyvale
-     - Registrant State/Province: CA
-     - Registrant Postal Code: 94085
-     - Registrant Country: US
+     **Answer**
+      
+      Registrant Street: Not Disclosed
+      Registrant City: Sunnyvale
+      Registrant State/Province: CA
+      Registrant Postal Code: 94085
+      Registrant Country: US
   
   2. What is the NetRange IP address:
 
