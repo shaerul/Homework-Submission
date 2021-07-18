@@ -130,7 +130,7 @@ Is Altoro Mutual vulnerable to XSS:
 ![](Images/finding-vulnerabilities.PNG)
 
 
-Yes one vulnerabiliy has been found by `recon-ng`
+Yes one vulnerabiliy has been found by **`recon-ng`**
 
 ### Step 5: Zenmap
 
