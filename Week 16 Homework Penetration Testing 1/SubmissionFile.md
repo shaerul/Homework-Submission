@@ -180,24 +180,16 @@ Your client has asked that you help identify any vulnerabilities with their file
   2. Why is it dangerous:
 
   3. What mitigation strategies can you recommendations for the client to protect their server:
-
-
   
-
-
-
-
-
-
+  
 | **Risk** | Medium |
-|--------|-----------|
 | **Nmap Script** | script=smb-enum-shares |
 | **CVE** | CVE-1999-0520 |
 | **Category** | SMB/NetBIOS |
-| Type | Attack |
-| Summary | In access-based enumeration, only the files and folders that have been given permission to access are displayed. When a user does not have Read permissions (or equivalent) for a folder, Windows hides the folder from the user. This feature is only applicable when viewing files and folders in a shared folder; it is not applicable when viewing files and folders in the local file system. |
-| Impact | The shares are accessible remotely by hackers. |
-| Solution | Put a password on the share and make the NetBIOS port inaccessible. |
+| **Type** | Attack |
+| **Summary** | In access-based enumeration, only the files and folders that have been given permission to access are displayed. When a user does not have Read permissions (or equivalent) for a folder, Windows hides the folder from the user. This feature is only applicable when viewing files and folders in a shared folder; it is not applicable when viewing files and folders in the local file system. |
+| **Impact** | The shares are accessible remotely by hackers. |
+| **Solution** | Put a password on the share and make the NetBIOS port inaccessible. |
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved
