@@ -142,7 +142,7 @@
 
 Yes one vulnerabiliy has been found by **`recon-ng`**
 
-### Step 5: Zenmap
+#### Step 5: Zenmap
 
 Your client has asked that you help identify any vulnerabilities with their file-sharing server. Using the Metasploitable machine to act as your client's server, complete the following:
 
