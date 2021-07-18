@@ -107,19 +107,20 @@ If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP i
 
 - Install the Recon module `xssed`.
 
-
 **Answer**
+
 ![](Images/installing-module-xssed.PNG)
 
 - Set the source to `demo.testfire.net`. 
 
 **Answer**
+
 ![](Images/set-source-to-testfire.PNG)
 
 - Run the module. 
 
 **Answer**
-![](Images/xssed-run-command.PNG)
+
 ![](Images/xssed-run-command.PNG)
 
 CmemJprciNiRSYqHdCKX60ItwG0BXEL2
@@ -127,6 +128,7 @@ CmemJprciNiRSYqHdCKX60ItwG0BXEL2
 Is Altoro Mutual vulnerable to XSS: 
 
 **Answer**
+
 ![](Images/finding-vulnerabilities.PNG)
 
 ### Step 5: Zenmap
