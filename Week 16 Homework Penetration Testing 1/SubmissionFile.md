@@ -123,13 +123,14 @@ If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP i
 
 ![](Images/xssed-run-command.PNG)
 
-CmemJprciNiRSYqHdCKX60ItwG0BXEL2
-
 Is Altoro Mutual vulnerable to XSS: 
 
 **Answer**
 
 ![](Images/finding-vulnerabilities.PNG)
+
+
+Yes one vulnerabiliy has been found by `recon-ng`
 
 ### Step 5: Zenmap
 
