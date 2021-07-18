@@ -123,7 +123,7 @@ If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP i
 
     ![](Images/xssed-run-command.PNG)
 
-Is Altoro Mutual vulnerable to XSS: 
+  Is Altoro Mutual vulnerable to XSS: 
 
     **Answer**
 
