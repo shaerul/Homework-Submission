@@ -95,7 +95,7 @@
 
     This question is a bit confusing for me to distinguish between the expected answer for "DNS server" or "DNS name" of Fully Qualified Doman Name (FQDN) `demo.testfire.net`.
 
-    If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP is,
+    If it is asked for an IP of "DNS Name" or FQDN `demo.testfire.net` then the answer would be,
 
     ```
     65.61.137.117
