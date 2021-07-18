@@ -49,13 +49,15 @@
 
     **Answer**
 
-      - CustName:       Rackspace Backbone Engineering
-      - Address:        9725 Datapoint Drive, Suite 100
-      - City:           San Antonio
-      - StateProv:      TX
-      - PostalCode:     78229
-      - Country:        US 
-
+    ```
+    CustName:       Rackspace Backbone Engineering
+    Address:        9725 Datapoint Drive, Suite 100
+    City:           San Antonio
+    StateProv:      TX
+    PostalCode:     78229
+    Country:        US 
+    ```
+    
   - What is the IP address of the DNS server:
 
     **Answer**
