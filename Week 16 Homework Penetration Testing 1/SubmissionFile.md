@@ -27,7 +27,7 @@
 
   Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions based on the results:
 
-  1. Where is the company located:  
+  - Where is the company located:  
 
     **Answer**
 
@@ -38,13 +38,13 @@
       - Registrant Country: US
 
   
-  2. What is the NetRange IP address:
+  - What is the NetRange IP address:
 
   **Answer**
 
   NetRange: 65.61.137.64 - 65.61.137.127
 
-  3. What is the company they use to store their infrastructure:
+  - What is the company they use to store their infrastructure:
 
     **Answer**
 
@@ -55,7 +55,7 @@
       - PostalCode:     78229
       - Country:        US 
 
-  4. What is the IP address of the DNS server:
+  - What is the IP address of the DNS server:
 
     **Answer**
 
