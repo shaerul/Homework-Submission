@@ -168,14 +168,14 @@ Your client has asked that you help identify any vulnerabilities with their file
     ![](Images/output-nmap-smb-script.png)
 
 - Once you have identified this vulnerability, answer the following questions for your client:
+
   1. What is the vulnerability:
 
         **Answer**
     
         CVE-1999-0520
-    
-    
-        Current Description
+        
+        Current Description:
         
             inappropriate access control for a system-critical NETBIOS/SMB file share.
         
@@ -191,18 +191,18 @@ Your client has asked that you help identify any vulnerabilities with their file
         
             Put a password on the share and make the NetBIOS port inaccessible.
 
-    **Put it all together**
+        **Put it all together**
 
-    |          | Description |
-    |----------|--------|  
-    | **Nmap-Script** | script=smb-enum-shares |
-    | **CVE** | CVE-1999-0520 |
-    | **Category** | SMB/NetBIOS |
-    | **Type** | Attack |
-    | **Risk** | Medium |
-    | **Summary** | In access-based enumeration, only the files and folders that have been given permission to access are displayed. When a user does not have Read permissions (or equivalent) for a folder, Windows hides the folder from the user. This feature is only applicable when viewing files and folders in a shared folder; it is not applicable when viewing files and folders in the local file system. |
-    | **Impact** | The shares are accessible remotely by hackers. |
-    | **Solution** | Put a password on the share and make the NetBIOS port inaccessible. |
+        |          | Description |
+        |----------|--------|  
+        | **Nmap-Script** | script=smb-enum-shares |
+        | **CVE** | CVE-1999-0520 |
+        | **Category** | SMB/NetBIOS |
+        | **Type** | Attack |
+        | **Risk** | Medium |
+        | **Summary** | In access-based enumeration, only the files and folders that have been given permission to access are displayed. When a user does not have Read permissions (or equivalent) for a folder, Windows hides the folder from the user. This feature is only applicable when viewing files and folders in a shared folder; it is not applicable when viewing files and folders in the local file system. |
+        | **Impact** | The shares are accessible remotely by hackers. |
+        | **Solution** | Put a password on the share and make the NetBIOS port inaccessible. |
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved
