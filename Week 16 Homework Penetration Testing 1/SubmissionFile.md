@@ -177,7 +177,7 @@ Your client has asked that you help identify any vulnerabilities with their file
         
         Current Description:
         
-            inappropriate access control for a system-critical NETBIOS/SMB file share.
+        inappropriate access control for a system-critical NETBIOS/SMB file share.
         
   2. Why is it dangerous:
 
@@ -195,7 +195,7 @@ Your client has asked that you help identify any vulnerabilities with their file
 
         |          | Description |
         |----------|--------|  
-        | **Nmap-Script** | script=smb-enum-shares |
+        | **Nmap-Script** | smb-enum-shares |
         | **CVE** | CVE-1999-0520 |
         | **Category** | SMB/NetBIOS |
         | **Type** | Attack |
