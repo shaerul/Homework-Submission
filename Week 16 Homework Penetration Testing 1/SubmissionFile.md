@@ -127,7 +127,7 @@ If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP i
 
     **Answer**
 
-    ![](Images/Images/finding-vulnerabilities.PNG)
+    ![](Images/finding-vulnerabilities.PNG)
 
 
 Yes one vulnerabiliy has been found by **`recon-ng`**
