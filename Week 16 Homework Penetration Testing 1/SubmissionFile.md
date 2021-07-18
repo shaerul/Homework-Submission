@@ -127,7 +127,7 @@ Is Altoro Mutual vulnerable to XSS:
 
     **Answer**
 
-    ![](Images/finding-vulnerabilities.PNG)
+    ![](Images/Images/finding-vulnerabilities.PNG)
 
 
 Yes one vulnerabiliy has been found by **`recon-ng`**
