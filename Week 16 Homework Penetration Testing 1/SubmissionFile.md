@@ -107,27 +107,27 @@ If it is asked for DNS Name of a FQDN `demo.testfire.net` then the obtained IP i
 
 - Install the Recon module `xssed`.
 
-**Answer**
+    **Answer**
 
-![](Images/installing-module-xssed.PNG)
+    ![](Images/installing-module-xssed.PNG)
 
 - Set the source to `demo.testfire.net`. 
 
-**Answer**
+    **Answer**
 
-![](Images/set-source-to-testfire.PNG)
+    ![](Images/set-source-to-testfire.PNG)
 
 - Run the module. 
 
-**Answer**
+    **Answer**
 
-![](Images/xssed-run-command.PNG)
+    ![](Images/xssed-run-command.PNG)
 
 Is Altoro Mutual vulnerable to XSS: 
 
-**Answer**
+    **Answer**
 
-![](Images/finding-vulnerabilities.PNG)
+    ![](Images/finding-vulnerabilities.PNG)
 
 
 Yes one vulnerabiliy has been found by **`recon-ng`**
@@ -177,7 +177,7 @@ Your client has asked that you help identify any vulnerabilities with their file
         
         Current Description:
         
-        inappropriate access control for a system-critical NETBIOS/SMB file share.
+        Inappropriate access control for a system-critical NETBIOS/SMB file share.
         
   2. Why is it dangerous:
 
@@ -189,7 +189,7 @@ Your client has asked that you help identify any vulnerabilities with their file
 
         **Answer**
         
-            Put a password on the share and make the NetBIOS port inaccessible.
+        Put a password on the share and make the NetBIOS port inaccessible.
 
         **Put it all together**
 
