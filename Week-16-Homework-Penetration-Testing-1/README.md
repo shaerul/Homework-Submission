@@ -75,7 +75,7 @@
     BASH Commands for copy and paste execution
  
     ```
-    ns=("Asia3.akam.net" "usc3.akam.net" "eur5.akam.net" "usc2.akam.net" "eur2.akam.net")
+    ns=("asia3.akam.net" "usc3.akam.net" "usw2.akam.net" "eur5.akam.net" "ns1-206.akam.net" "usc2.akam.net" "eur2.akam.net" "ns1-99.akam.net")
     for i in ${ns[@]}; do echo $i $(dig +short $i); done
     ```
     Output
