@@ -9,3 +9,9 @@ Cybersecurity Bootcamp, University of Toronto, Canada
 
 ## [Submitted Homework: Week 18 Homework-SIEM-Week-1](Week-18-Homework-SIEM-Week-1/Vandalay-Industries-Monitoring-Activity.docx)
 #### [Submitted Homework: Week 18 Homework-SIEM-Week-1 in PDF Version](Week-18-Homework-SIEM-Week-1/Vandalay-Industries-Monitoring-Activity.pdf)
+
+## [Submitted Homework: Week 19 Homework-SIEM-Week-2](Week-19-Homework-SIEM-Week-2/Protecting VSI from Future Attacks.docx)
+#### [Submitted Homework: Week 19 Homework-SIEM-Week-2 in PDF Version](Week-19-Homework-SIEM-Week-2/Protecting VSI from Future Attacks.pdf)
+
+Week-19-Homework-SIEM-Week-2/Protecting VSI from Future Attacks.docx
+Week-19-Homework-SIEM-Week-2/Protecting VSI from Future Attacks.pdf
